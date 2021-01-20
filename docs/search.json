@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-19T18:20:10-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Bennie Sclafani",
+      "author": [],
+      "contents": "\n\n    \n    \n      \n        \n          \n            Bennie Sclafani\n          \n          \n            \n              I am a goldendoodle puppy!\n            \n            \n              I am a goldendoodle puppy!\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-01-19T18:20:11-08:00"
+    }
+  ],
+  "collections": []
+}
